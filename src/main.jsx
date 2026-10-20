@@ -6,11 +6,11 @@ import './style.css'
 
 const PROFILE = {
   name: 'Rachit Bandaram',
-  email: '', // Add your preferred public email address here
-  linkedin: '', // Add your LinkedIn profile URL here
+  email: '',
+  linkedin: '',
   github: 'https://github.com/rkb004',
   resume: '/rachit_personal_portfoilio/resume.pdf',
-  lightVideo: '', // Add your Light the Hoan video URL here
+  lightVideo: 'https://drive.google.com/file/d/19HBUrt14rkw0wvP2O8ewLHNfEFR9BviU/view',
 }
 
 const experiences = [
@@ -21,8 +21,8 @@ const experiences = [
 ]
 const projects = [
   { number: '01', name: 'Personalized AI Assistant', type: 'Applied AI · Rockwell Automation', description: 'An assistant with persistent memory, workflow integrations, and token-efficient interactions, built during my internship.', tags: ['AI Agents', 'LLMs', 'Memory', '.NET'], link: '' },
-  { number: '02', name: 'Local LLM Telugu Tutor', type: 'Personal Project', description: 'A privacy-minded language-learning assistant powered by local LLMs, FastAPI, speech recognition, and conversational context.', tags: ['Python', 'FastAPI', 'Ollama', 'Whisper'], link: '' },
-  { number: '03', name: 'NLP Transcript Research', type: 'Research · University of Chicago', description: 'A scalable language-analysis workflow for thousands of transcripts, supporting structured keyword analysis and research insights.', tags: ['Python', 'NLP', 'GCP', 'Data Pipelines'], link: '' },
+  { number: '02', name: 'Local LLM Language Tutor', type: 'Personal Project', description: 'A privacy-minded language-learning assistant powered by local LLMs, FastAPI, speech recognition, and conversational context.', tags: ['Python', 'FastAPI', 'Ollama', 'Whisper'], link: '' },
+  { number: '03', name: 'Bias Detection - NLP', type: 'Research · University of Chicago', description: 'A scalable language-analysis workflow for thousands of transcripts, supporting structured keyword analysis and research insights to determine effects of podcasts on 2024 presidential election.', tags: ['Python', 'NLP', 'GCP', 'Data Pipelines'], link: '' },
 ]
 const skills = [ ['Languages', 'Python', 'SQL', 'C#', 'Java', 'Kotlin', 'JavaScript'], ['AI & Data', 'LLMs', 'NLP', 'AI Agents', 'dbt', 'Airflow', 'PostgreSQL'], ['Engineering', 'React', 'FastAPI', '.NET', 'Git', 'GCP'] ]
 const fade = { initial: { opacity: 0, y: 24 }, whileInView: { opacity: 1, y: 0 }, viewport: { once: true, amount: .13 }, transition: { duration: .55 } }
