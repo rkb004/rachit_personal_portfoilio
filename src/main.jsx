@@ -96,13 +96,16 @@ const projects = [
     tags: ['Python', 'NLP', 'GCP', 'Data Pipelines'],
     link: ''
   },
+  
   {
-    title: 'BadgerBuzz',
-    category: 'Mobile Development · Team Project',
-    description: 'An Android app helping UW–Madison students discover and share campus events through interactive maps, event listings, and Firebase-powered backend services.',
-    tech: ['Kotlin', 'Android', 'Firebase', 'Google Maps'],
-    link: 'https://github.com/rkb004/BadgerBuzz',
+  number: '04',
+  name: 'BadgerBuzz',
+  type: 'Mobile Development · Team Project',
+  description: 'An Android app helping UW–Madison students discover and share campus events through interactive maps, event listings, and Firebase-powered backend services.',
+  tags: ['Kotlin', 'Android', 'Firebase', 'Google Maps'],
+  link: 'https://github.com/rkb004/BadgerBuzz',
   },
+
 ]
 
 const skills = [
