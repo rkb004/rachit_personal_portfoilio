@@ -86,7 +86,7 @@ const projects = [
     type: 'Personal Project',
     description: 'A privacy-minded language-learning assistant powered by local LLMs, FastAPI, speech recognition, and conversational context.',
     tags: ['Python', 'FastAPI', 'Ollama', 'Whisper'],
-    link: ''
+    link: 'https://github.com/rkb004/language-tutor'
   },
   {
     number: '03',
@@ -95,7 +95,14 @@ const projects = [
     description: 'A scalable language-analysis workflow for thousands of transcripts, supporting structured keyword analysis and research insights to determine effects of podcasts on the 2024 presidential election.',
     tags: ['Python', 'NLP', 'GCP', 'Data Pipelines'],
     link: ''
-  }
+  },
+  {
+    title: 'BadgerBuzz',
+    category: 'Mobile Development · Team Project',
+    description: 'An Android app helping UW–Madison students discover and share campus events through interactive maps, event listings, and Firebase-powered backend services.',
+    tech: ['Kotlin', 'Android', 'Firebase', 'Google Maps'],
+    link: 'https://github.com/rkb004/BadgerBuzz',
+  },
 ]
 
 const skills = [
