@@ -285,7 +285,7 @@ function App() {
                 <h3>Turning ideas into a winning light show.</h3>
 
                 <p>
-                Light the Hoan is a Milwaukee initiative that illuminates the city's iconic Hoan Bridge with programmable LED lights using Kratos software, transforming a local landmark into a canvas for creative light displays.During my internship at Rockwell Automation, I led a team competing to design a light show for the bridge. We combined creativity, technical problem-solving, and collaboration to develop our entry, ultimately earning **first place** in the competition.The project was a chance to apply engineering skills outside of traditional software development and contribute to something connected to the Milwaukee community.
+                Light the Hoan is a Milwaukee initiative that illuminates the city's iconic Hoan Bridge with programmable LED lights using Kratos software, transforming a local landmark into a canvas for creative light displays.During my internship at Rockwell Automation, I led a team competing to design a light show for the bridge. We combined creativity, technical problem-solving, and collaboration to develop our entry, ultimately earning first place in the competition.The project was a chance to apply engineering skills outside of traditional software development and contribute to something connected to the Milwaukee community.
                 </p>
 
                 <p className="muted">
